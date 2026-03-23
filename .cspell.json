@@ -1,0 +1,31 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "humanink",
+    "humanizer",
+    "slop",
+    "llm",
+    "ChatGPT",
+    "Gemini",
+    "anthropic",
+    "hallucinate",
+    "hallucination",
+    "multilingual",
+    "pgvector",
+    "WARP",
+    "sirambrosio",
+    "fingerprint",
+    "hedging",
+    "performative",
+    "adverbials",
+    "nominalizations",
+    "retroflex",
+    "sycophantic",
+    "transitionals"
+  ],
+  "ignorePaths": [
+    ".git",
+    "node_modules"
+  ]
+}

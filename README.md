@@ -25,7 +25,7 @@
   <a href="#before--after--real-example"><img src="https://img.shields.io/badge/EXAMPLE-22c55e?style=for-the-badge" alt="example" /></a>
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/v2.2.0-111?style=flat-square&logo=semver&logoColor=white" alt="version" />
+  <img src="https://img.shields.io/github/v/release/sirambrosio/humanink?style=flat-square&color=111&logoColor=white&label=version" alt="version" />
   &nbsp;
   <a href="https://github.com/sirambrosio/humanink/stargazers"><img src="https://img.shields.io/github/stars/sirambrosio/humanink?style=flat-square&logo=github&logoColor=white&label=stars" alt="GitHub stars" /></a>
   &nbsp;
